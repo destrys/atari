@@ -3,6 +3,7 @@
 **This is lifted from the [AtariAge Forum](http://atariage.com/forums/topic/33233-sorted-table-of-contents/),
 any content that I add will be bold**
 **This page can be found [here](http://atariage.com/forums/topic/27186-session-1-start-here).**
+
 ---
 
 ## So, you want to program the Atari 2600 and don't know where to start?
@@ -174,3 +175,6 @@ Next time we will make sure that our development environment is setup correctly,
 the principles of programming a '2600 game.
 
 PS: I can't promise to complete this 'course' - but hopefully what I do write will be interesting and helpful. 
+
+---
+Now you can head to [Lesson 2: Television Display Basics](/docs/atariage/tvbasics.md)
