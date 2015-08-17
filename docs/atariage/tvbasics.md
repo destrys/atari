@@ -35,8 +35,8 @@ A television signal contains either 60 images per second (on NTSC systems) or 50
 (on PAL systems). This is closely tied to the frequency of mains AC power in the countries which use
 these systems - and this is probably for historical reasons. In any case, it's important to understand
 that there are differences. Furthermore, NTSC images are 525 scanlines deep, and PAL images are 625
-scanlines deep. From this, it follows that PAL images have more detail - but are displayed less frequently
-- or alternatively, NTSC images have less detail but are displayed more often. In practise, TV looks
+scanlines deep. From this, it follows that PAL images have more detail - but are displayed less
+frequently - or alternatively, NTSC images have less detail but are displayed more often. In practise, TV looks
 pretty much the same in both systems.
 
 But from the '2600 point of view, the difference in frequency (50Hz vs. 60Hz) and resolution
